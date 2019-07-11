@@ -10,27 +10,27 @@
         <delete_access>false</delete_access>
         <extension_model/>
         <is_extendable>false</is_extendable>
-        <label>Marketing Event </label>
+        <label>Equipment Request</label>
         <live_feed_enabled>false</live_feed_enabled>
-        <name>x_376235_marketing_events_table</name>
+        <name>x_376235_marketing_equipment_request</name>
         <number_ref/>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class/>
+        <super_class display_value="Task" name="task">bc3f0984c41133007850fc0eb61b295e</super_class>
         <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_class_path/>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-07-11 08:50:24</sys_created_on>
-        <sys_id>0d9691461b223300561821b6bc4bcbda</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>Marketing Event </sys_name>
+        <sys_created_on>2019-07-11 09:17:49</sys_created_on>
+        <sys_id>06fbd54a1b223300561821b6bc4bcbab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Equipment Request</sys_name>
         <sys_package display_value="Marketing Events" source="x_376235_marketing">c99691461b223300561821b6bc4bcbda</sys_package>
         <sys_policy/>
         <sys_scope display_value="Marketing Events">c99691461b223300561821b6bc4bcbda</sys_scope>
-        <sys_update_name>sys_db_object_0d9691461b223300561821b6bc4bcbda</sys_update_name>
+        <sys_update_name>sys_db_object_06fbd54a1b223300561821b6bc4bcbab</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-07-11 09:32:36</sys_updated_on>
+        <sys_updated_on>2019-07-11 09:17:49</sys_updated_on>
         <update_access>false</update_access>
         <user_role display_value="x_376235_marketing.user" name="x_376235_marketing.user">19961d461b223300561821b6bc4bcb67</user_role>
         <ws_access>true</ws_access>
